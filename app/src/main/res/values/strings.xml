@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Datos</string>
+
+    <string name="nombre_usuario">Nombre</string>
+    <string name="btn_siguiente">Editar</string>
+    <string name="numero_usuario">Celular</string>
+    <string name="correo_usuario">correo</string>
+    <string name="coment_usuario">comentario</string>
+    <string name="second_name">Confirmar Datos</string>
+
+    <string name="tt_secondNumber">Número:</string>
+    <string name="tt_secondAct">Nombre:</string>
+    <string name="tt_secondCorre">Email:</string>
+    <string name="tt_secondComent">Comentario:</string>
+    <string name="date_selected" />
+    <string name="date_label_set">Press the button</string>
+    <string name="date_view_set">The Date is:</string>
+    <string name="date_button_set">Set Date</string>
+</resources>
